@@ -1,17 +1,9 @@
-# Nome do meu projeto
+# Projeto Alura Plus
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto desenvolvido para praticar os conceitos que vi até agora de HTML e CSS, consegui desenvolver boa parte do projeto sozinha e vi o curso como revisão do código que fiz.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+Você pode acessar o projeto em: 
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![image](https://user-images.githubusercontent.com/95857175/202921866-6db947b3-66f5-4f2d-93d6-3f68cc19d4a5.png#vitrinedev)
 
-## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
